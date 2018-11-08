@@ -1,6 +1,3 @@
-.DS_Store
-movie_data.csv
-
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -92,6 +89,8 @@ venv/
 ENV/
 env.bak/
 venv.bak/
+
+Using_Regex_To_Extract_Column_Names_by_Britton_Winterrose.ipynb
 
 # Spyder project settings
 .spyderproject
